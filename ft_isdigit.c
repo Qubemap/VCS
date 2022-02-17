@@ -8,3 +8,5 @@ int	ft_isdigit(int c)
 	}
 	return (0);
 }
+
+/* what do you do with a drunken sailor? */
